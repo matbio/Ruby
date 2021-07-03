@@ -1,0 +1,7 @@
+INSTRUÇÕES DE TRABALHO E COMANDOS PARA RUBY
+- Instalar o ruby com o DEVKIT no https://rubyinstaller.org/
+- Após a instalação desmarcar a opção final de instalar o ridk do MSYS2
+- No prompt de comando, executar: ridk install
+- selecionar a opção 3 e clicar enter
+- Executar o comando: gem install bundler
+- Para executar um script , executar comando : ruby teste.rb
